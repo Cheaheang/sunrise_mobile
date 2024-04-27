@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sunrise_mobile/UI/LoginPage.dart';
+import 'package:sunrise_mobile/UI/loginPage.dart';
 
 void main() {
   runApp(const MyApp());
